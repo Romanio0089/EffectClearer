@@ -5,25 +5,39 @@ GitHub repository of EffectClearer Minecraft plugin.
 
 EffectClearer
 Provides simple and short commands for clearing player effects !
-​
+
 Compatibility: 1.7.X up to 1.15.X
-​
+
 Commands :
+
 /effectclear - Clears all effects from player.
+
 /ce - Clears all effects from player.
+
 /effectc - Clears all effects from player.
+
 /cleareffect - Clears all effects from player.
+
 /ecr - Clears all effects from player.
+
 /cleare - Clears all effects from player.
+
 /eclear - Clears all effects from player.
 
 Permissions :
+
 effectclearer.effectclear
+
 effectclearer.ce
+
 effectclearer.effectc
+
 effectclearer.cleareffect
+
 effectclearer.ecr
+
 effectclearer.cleare
+
 effectclearer.eclear
 
 Support :
