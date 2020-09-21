@@ -3,8 +3,7 @@ GitHub repository of EffectClearer Minecraft plugin.
 
 ## About
 
-EffectClearer
-Provides simple and short commands for clearing player effects !
+EffectClearer provides simple and short commands for clearing player effects !
 
 Compatibility: 1.7.X up to 1.16.X
 
