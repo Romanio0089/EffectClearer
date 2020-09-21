@@ -1,9 +1,9 @@
 # EffectClearer
 [![Release](https://img.shields.io/badge/release-1.0.1-informational)](https://github.com/Romanio0089/EffectClearer/releases)
-GitHub repository of EffectClearer Minecraft plugin.
-
 
 ## About
+
+GitHub repository of EffectClearer Minecraft plugin.
 
 EffectClearer provides simple and short commands for clearing player effects !
 
