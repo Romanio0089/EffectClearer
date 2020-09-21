@@ -1,6 +1,7 @@
 # EffectClearer
 [![Release](https://img.shields.io/badge/release-1.0.1-informational)](https://github.com/Romanio0089/EffectClearer/releases)
 [![Downloads](https://img.shields.io/github/downloads/Romanio0089/EffectClearer/total.svg)](https://github.com/Romanio0089/EffectClearer/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Romanio0089/EffectClearer/blob/master/LICENSE)
 
 ## About
 
