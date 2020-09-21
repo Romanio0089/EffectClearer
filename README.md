@@ -1,4 +1,5 @@
 # EffectClearer
+[![Release](https://img.shields.io/github/release/Requarks/wiki.svg?style=flat&maxAge=3600)](https://github.com/Romanio0089/EffectClearer/releases)
 GitHub repository of EffectClearer Minecraft plugin.
 
 ## About
