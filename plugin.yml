@@ -1,0 +1,51 @@
+name: EffectClearer
+main: com.romanio0089.effectclearer.Main
+version: 1.0.0
+commands:
+     effectclear:
+        description: Clears all effects from player.
+        usage: /<command>
+     ce:
+        description: Clears all effects from player.
+        usage: /<command>
+     effectc:
+        description: Clears all effects from player.
+        usage: /<command>
+     cleareffect:
+        description: Clears all effects from player.
+        usage: /<command>
+     ecr:
+        description: Clears all effects from player.
+        usage: /<command>
+     cleare:
+        description: Clears all effects from player.
+        usage: /<command> 
+     eclear:
+        description: Clears all effects from player.
+        usage: /<command>
+permissions:
+     effectclearer.*:
+        description: Permission for all EffectClearer commands.
+        children:
+           effectclearer.effectclear: true
+           effectclearer.ce: true
+           effectclearer.effectc: true
+           effectclearer.cleareffect: true
+           effectclearer.ecr: true
+           effectclearer.cleare: true
+           effectclearer.eclear: true
+     effectclearer.effectclear:
+        description: Permission to clear player effects.
+     effectclearer.ce:
+        description: Permission to clear player effects.
+     effectclearer.effectc:
+        description: Permission to clear player effects.
+     effectclearer.cleareffect:
+        description: Permission to clear player effects.
+     effectclearer.ecr:
+        description: Permission to clear player effects.
+     effectclearer.cleare:
+        description: Permission to clear player effects.
+     effectclearer.eclear:
+        description: Permission to clear player effects.
+     
