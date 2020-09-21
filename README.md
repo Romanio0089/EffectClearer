@@ -8,7 +8,7 @@ Provides simple and short commands for clearing player effects !
 
 Compatibility: 1.7.X up to 1.15.X
 
-Commands :
+## Commands
 
 /effectclear - Clears all effects from player.
 
@@ -24,7 +24,7 @@ Commands :
 
 /eclear - Clears all effects from player.
 
-Permissions :
+## Permissions
 
 effectclearer.effectclear
 
@@ -40,7 +40,8 @@ effectclearer.cleare
 
 effectclearer.eclear
 
-Support :
+## Support
+
 DM me on Discord : Romanio0089#5031
 
 Built on legacy Minecraft version 1.12.2.
