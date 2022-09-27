@@ -3,13 +3,11 @@
 [![Downloads](https://img.shields.io/github/downloads/Romanio0089/EffectClearer/total.svg)](https://github.com/Romanio0089/EffectClearer/releases)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Romanio0089/EffectClearer/blob/master/LICENSE)
 
-## About
+EffectClearer is a Bukkit plugin that provides simple and short commands for clearing player effects in Minecraft.
 
-GitHub repository of EffectClearer Minecraft plugin.
+Compatibility: 1.7.X up to 1.16.X (higher versions have not been tested)
 
-EffectClearer provides simple and short commands for clearing player effects !
-
-Compatibility: 1.7.X up to 1.16.X
+Development for this plugin has stopped. No further versions will be released until further notice.
 
 ## Commands
 
@@ -29,30 +27,18 @@ Compatibility: 1.7.X up to 1.16.X
 
 ## Permissions
 
-effectclearer.effectclear
+effectclearer.(command name)
 
-effectclearer.ce
+## Official Download Sources
 
-effectclearer.effectc
+SpigotMC: https://www.spigotmc.org/resources/effectclearer.79687/
 
-effectclearer.cleareffect
+CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/effectclearer
 
-effectclearer.ecr
+GitHub: https://github.com/Romanio0089/EffectClearer/releases
 
-effectclearer.cleare
+## Credits
 
-effectclearer.eclear
+If you have any questions or inquiries, please contact Romanio0089#5031 on Discord.
 
-## Support
-
-DM me on Discord : Romanio0089#5031
-
-Built on legacy Minecraft version 1.12.2.
-
-## Downloads
-
-SpigotMC : https://www.spigotmc.org/resources/effectclearer.79687/
-
-CurseForge : https://www.curseforge.com/minecraft/bukkit-plugins/effectclearer
-
-GitHub : https://github.com/Romanio0089/EffectClearer/releases
+If you have any issues, please open an issue on the GitHub. Please try to describe the problem as best as possible.
