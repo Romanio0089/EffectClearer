@@ -1,7 +1,7 @@
 # EffectClearer
 [![Release](https://img.shields.io/badge/release-1.0.1-informational)](https://github.com/Romanio0089/EffectClearer/releases)
 [![Downloads](https://img.shields.io/github/downloads/Romanio0089/EffectClearer/total.svg)](https://github.com/Romanio0089/EffectClearer/releases)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Romanio0089/EffectClearer/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-GNU_GPLv3-brightgreen.svg)](https://github.com/Romanio0089/EffectClearer/blob/master/LICENSE)
 
 *EffectClearer* is a Bukkit plugin that provides simple and short commands for clearing player effects in Minecraft.
 
